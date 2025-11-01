@@ -6,8 +6,6 @@
 - Recipe Generation: Generate recipes based on the ingredients provided, using an LLM as a tool to intelligently retrieve only recipes that can be prepared with available ingredients.
 - Recipe Display: Display the generated recipes with a clear list of ingredients, steps and preparation instructions.
 - Filtering: Filtering and searching for a specific ingredient.
-- Flutter Framework: Use flutter framework for app
-- Firebase Integration: Integrate firebase for backend
 
 ## Style Guidelines:
 
@@ -17,3 +15,12 @@
 - Body and headline font: 'PT Sans', a modern, warm, humanist sans-serif.
 - Use minimalist icons related to cooking and ingredients.
 - Simple and clean layout with a focus on readability.
+// ...existing code...
+
+## Demo
+
+A short demo video is available on YouTube:
+
+- Demo video :  
+  [https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/xpJH4iNzAkQ)
+ 
