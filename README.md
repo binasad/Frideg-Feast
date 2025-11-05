@@ -108,8 +108,13 @@ This section explains the runtime flow from user input to generated recipes and 
 
 A short demo video is available on YouTube:
 
+
+https://github.com/user-attachments/assets/4fd91f9e-469d-499f-9b83-4bdf88d43807
+
+
 - Demo video:  
   [https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/xpJH4iNzAkQ)
+
 
 
 
